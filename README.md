@@ -2,7 +2,10 @@
 <h1 align="center">Hi 👋, I'm Bangbokir</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-[<p align="center"> <img src="https://komarev.com/ghpvc/?username=bangbokirs&label=Profile%20views&color=0e75b6&style=flat" alt="bangbokirs" /> </p>](https://profile-counter.glitch.me/bangbokirs/count.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bangbokirs/count.svg" />
+</p>
 
 <h1 align="center">My Skills</h3>
 

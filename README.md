@@ -3,7 +3,6 @@
 <h3 align="center">Fullstack Developer</h3>
 
 <p align="center"> 
-  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/bangbokirs/count.svg" />
 </p>
 

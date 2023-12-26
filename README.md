@@ -10,7 +10,7 @@ I've been learning to code for 10 years, after switching careers. I started with
 * ✉️  You can contact me at [burn.dev00@gmail.com](mailto:burn.dev00@gmail.com)
 * 🚀  I'm currently working on [Lost Saga Miracle](http://miraclesaga.xyz)
 * 🧠  I'm learning RUST
-* 🤝  I'm open to collaborating on Lost Saga For Developers
+* 🤝  I'm open to collaborating on [Lost Saga For Developers](https://github.com/LSFDC)
 * ⚡  Talkless Do More
 
 <a href="https://www.github.com/bangbokirs" target="_blank" rel="noreferrer"><img

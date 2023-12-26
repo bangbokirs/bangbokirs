@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I've been learning to code for 10 years, after switching careers. I started with HTML, but have really found a passion for backend development. I'm working remotely since 2018 🚀
+I've been learning to code for 10 years, after switching careers. I started with VB.Net, but have really found a passion for backend development. I'm working remotely since 2018 🚀
 
 * 🌍  I'm based in DKI Jakarta
 * ✉️  You can contact me at [burn.dev00@gmail.com](mailto:burn.dev00@gmail.com)
